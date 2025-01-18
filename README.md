@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devyangggg
 - 👀 I’m interested in Web dev, AI/ML dev, IOT, Blockchain and app dev too!
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me Email: devyangsharma14@gmail.com
+- 📫 How to reach me Email: devyangthunder@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
