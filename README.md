@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @devyangggg
-- 👀 I’m interested in Web dev, AI/ML dev, IOT, Blockchain and app dev too!
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me Email: devyangthunder@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>Hi!! Im devyang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Sophomore of Computer Science</em></p>
 
-<!---
-devyangggg/devyangggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const devyang = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "C/C++"],
+    askMeAbout: ["machine learning", "web dev", "tech", "finance", "physics", "books"],
+    technologies: {
+        frontEnd: {
+            ts: ["Nextjs", "React"],
+            styling: ["Shadcn", "Material-UI"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["FastAPI"]
+        },
+        databases: ["supabase", "MySql", "sqlite"],
+        ml/data: ["pytorch", "pandas", "numpy", "matplotlib", "selenium"]
+    },
+    currentProject: "A fully end to end ML application TBA ;)",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
